@@ -1,6 +1,6 @@
 # Docker Scripts for the Amazon Distro of Elasticsearch and Kibana
 
-## Items List
+## Items List in Folder
 
 > docker-compose.yml - Full install of distro products
 
